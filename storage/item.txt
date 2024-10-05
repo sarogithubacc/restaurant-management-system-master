@@ -1,0 +1,6 @@
+Pizza,11.0,6
+dosa,20.0,19
+meals,50.0,3
+coke,30.0,12
+redbull,40.0,14
+icecream,50.0,15

@@ -1,0 +1,5 @@
+1,Dass,30000.0
+2,Micheal,30000.0
+3,Rayappan,30000.0
+4,Lawrence,30000.0
+2,saro,15000.0
